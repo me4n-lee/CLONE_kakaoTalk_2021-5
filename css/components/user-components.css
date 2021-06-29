@@ -5,12 +5,10 @@
 }
 
 .user-component__avatar {
-    width: 70px;
-    height: 70px;
-    border-radius: 27px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
     margin-right: 20px;
-    margin-top: 15px;
-    margin-left: 15px;
 }
 
 .user-component__title {
@@ -23,3 +21,8 @@
     font-size: 15px;
     color: rgba(0, 0, 0, 0.5);
 }   
+
+.user-component__avatar--xl {
+    width: 70px;
+    height: 70px;
+  }
